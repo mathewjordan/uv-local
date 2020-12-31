@@ -8,7 +8,7 @@
 Once these are installed, clone this repository to your file system, then run the following commands in your terminal:
 
 ```
-cd uv-hello-world
+cd uv-local
 npm install
 npm start
 ```
